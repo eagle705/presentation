@@ -1,2 +1,2 @@
 # Presentation
-presentation pdf collection
+Presentation slides for paper review
